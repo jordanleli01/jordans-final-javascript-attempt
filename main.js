@@ -1,0 +1,12 @@
+//alert("hello");
+//alert("MY FIRST NAME IS JORDAN LELI");
+//alert("MY AGE IS 19 YEARS OLD");
+//alert("goodbye");
+console.log("MY FIRST NAME IS");
+console.log("LELI");
+console.log("Class is cool itts intresting to learn about computers and programming");
+const firstname = "Jordan";
+let lastname = "Leli";
+let age = 19;
+alert("MY FIRST NAME IS " + firstname  +" " + lastname);
+alert("MY AGE IS " + age);
